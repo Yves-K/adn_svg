@@ -17,7 +17,7 @@ void main() {
       'default': {'color': 'blue'},
     };
 
-    final result = manipulateSvg(svgContent, modeConfigs);
+    final result = styleSvg(svgContent, modeConfigs);
 
     expect(result, contains('<path class="mode1" fill="red" />'));
     expect(result, contains('<path class="mode2 default" opacity="0.5" />'));

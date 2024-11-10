@@ -1,8 +1,10 @@
-# myapp
+# svg_style
 
-A new Flutter project.
+###Dynamically styling SVGs using css like configurations.
 
-## Getting Started
+## Installation
+
+flutter pub add svg_style
 
 This project is a starting point for a Flutter application.
 
