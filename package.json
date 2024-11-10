@@ -1,0 +1,21 @@
+{
+  "name": "svg_style",
+  "version": "1.0.0",
+  "description": "A Flutter package for dynamic styling of SVGs.",
+  "main": "lib/svg_style.dart",  // Entry point for the package
+  "repository": "https://github.com/Yves-K/svg_type",
+  "homepage": "https://github.com/Yves-K/svg_type",
+  "author": "Yves-K", 
+  "license": "MIT",
+  "dependencies": {
+    "xml": "^6.0.0"
+  },
+  "devDependencies": {
+    "flutter_test": "sdk: flutter",
+    "test": "^1.19.1"
+  },
+  "keywords": ["flutter", "svg", "styling", "dynamic"], // Add relevant keywords
+  "engines": {  // Specify Flutter SDK constraint
+    "flutter": ">=2.17.0 <3.0.0"
+  }
+}
