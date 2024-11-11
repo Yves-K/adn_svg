@@ -1,5 +1,5 @@
 {
-  "name": "svg_style",
+  "name": "adn_svg",
   "version": "1.0.0",
   "description": "A Flutter package for dynamic styling of SVGs.",
   "main": "lib/svg_style.dart",  // Entry point for the package
