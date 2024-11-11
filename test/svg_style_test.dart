@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:svg_style/svg_style.dart';
+import 'package:adn_svg/svg_style.dart';
 
 void main() {
   test('manipulates SVG with mode-based styles', () {
